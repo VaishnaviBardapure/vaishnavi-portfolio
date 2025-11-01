@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vaishnavi-portfolio/static/css/main.65bd3f2b.css",
+    "main.js": "/vaishnavi-portfolio/static/js/main.0684a3cb.js",
+    "static/media/profile.jpg": "/vaishnavi-portfolio/static/media/profile.f3702d291542880372a3.jpg",
+    "index.html": "/vaishnavi-portfolio/index.html",
+    "main.65bd3f2b.css.map": "/vaishnavi-portfolio/static/css/main.65bd3f2b.css.map",
+    "main.0684a3cb.js.map": "/vaishnavi-portfolio/static/js/main.0684a3cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65bd3f2b.css",
+    "static/js/main.0684a3cb.js"
+  ]
+}
