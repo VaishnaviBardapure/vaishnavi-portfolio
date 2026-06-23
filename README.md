@@ -1,4 +1,4 @@
-# Vaishnavi Bardapure - Portfolio (React CRA)
+# Vaishnavi Bardapure - Portfolio (React)
 
 Run:
 
